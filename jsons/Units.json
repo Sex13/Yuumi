@@ -1,0 +1,8 @@
+[
+    {
+        "name": "Yuumi",
+		"unitType": "The Magical Cat",
+		"movement": 1,
+		"uniques": ["Unbuildable", "Limited to [1] per Civilization"]
+    }
+]

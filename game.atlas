@@ -1,0 +1,27 @@
+
+game.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Yuumi
+  rotate: false
+  xy: 1000, 376
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Background
+  rotate: false
+  xy: 4, 4
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+UnitPortraits/Yuumi
+  rotate: false
+  xy: 512, 24
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: -1
